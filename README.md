@@ -7,6 +7,16 @@
 ## Origin & Overview
 * *Klarna* ®
 	* 2005 • Founded in Stockholm, Sweden
+	* 2007 • Expanded to Norway, Finland & Denmark
+	* 2010 • Expanded to Germany & the Netherlands
+	* 2011 • Acquired Israeli company Analyzd
+	* 2012 • Expanded to Austria
+	* 2013 • Merged with German SOFORT AG after Klarna acquired SOFORT Banking and became Klarna Group
+	* 2015 • Expanded to the United States
+	* 2015 • Acquired Cookies App, a German-based money transfer app
+	* 2017 • Expanded to the United Kingdom and acquired BillPay, a European payment solutions provider
+	* 2018 • Acquired ShopCo Technologies, a US universal cart browser extension parent company, and Close Brothers, a UK omnichannel retail finance provider with active merchants
+	* 2020 • Expanded to Australia.  Acquired Spring Marketplace, retail marketing company, and Moneymour, an Italian provider of point of sale loans, which also lead to expansion within Italy.
 
 * *Founding Team*
 	* Sebastian Siemiatkowski
