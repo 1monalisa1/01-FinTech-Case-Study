@@ -51,7 +51,7 @@
 	
 * *Benefits to the Merchant*
 	* Merchant does not bear the credit risk,  payments are received within 3 days of the point-of-sale, increase in order size, increase in repeat business,  online retailers gain consumer trust, and the payment / delivery / return customer experience is outsourced
-	* Merchants are willing to pay Klarna a premium versus what they are willing to pay credit card companies, for Klarna drives customers to their businesses through their app, and also enhances the overall customer experience throughout the checkout process which drives greater brand loyalty (CNBC Interview).
+	* Their merchants are willing to pay Klarna a premium versus what they are willing to pay other merchant service companies for payment processing because Klarna drives customers to their businesses through their app, and also enhances the overall customer experience throughout the checkout process which drives greater brand loyalty (CNBC Interview).
 
 * *Financial Arrangements Offered by Klarna*
 	* Pay in-full within a specified period following checkout by entering a major credit card or bank information
@@ -61,7 +61,7 @@
 			* 3-36 month financing available for larger purchases
 			* Pay in-full within 30 days (Klarna)
 		* Klarna allows customers “to skip paying for an item upfront, and just entering an e-mail and delivery addresses. Klarna analyzes a person’s online credit history and browsing behavior to determine if they are creditworthy (Forbes).”
-		* Klarna uses the customer’s address and information to run a soft credit check paired with their Klarna history to determine if they are eligible for BNPL on the transaction (finder.com)
+		* Klarna uses the customer’s address and email address to run a soft credit check paired with their Klarna shopping history and cell phone location data to assess risk when determining if they are eligible for BNPL on the transaction (finder.com)
 			
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?**
