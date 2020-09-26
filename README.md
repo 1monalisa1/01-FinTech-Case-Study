@@ -1,8 +1,7 @@
 # FinTech Case Study 
 #### Columbia University:  Fu Foundation School of Engineering & Applied Science
-#### Lisa Esberger
-##### 2020.09.26
-
+##### Contributor:  Lisa Esberger
+##### Published:  September 26, 2020
 ![Klarna-Logo](https://github.com/1monalisa1/FinTech-Case-Study/blob/master/Images/Klarna-Logo.png?raw=true)
 
 ## Overview and Origin
