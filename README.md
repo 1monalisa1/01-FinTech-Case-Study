@@ -1,12 +1,12 @@
 # FinTech Case Study 
-#### Columbia University:  Fu Foundation School of Engineering & Applied Science
+#### Columbia University • Fu Foundation School of Engineering & Applied Science
 ##### Contributor:  Lisa Esberger
 ##### Published:  September 26, 2020
 ![Klarna-Logo](https://github.com/1monalisa1/FinTech-Case-Study/blob/master/Images/Klarna-Logo.png?raw=true)
 
 ## Overview and Origin
 * *Klarna* ®
-	* 2005 - Founded in Stockholm, Sweden
+	* 2005 • Founded in Stockholm, Sweden
 
 * *Founding Team*
 	* Sebastian Siemiatkowski
@@ -15,9 +15,9 @@
 
 * *The Idea*
 	* Sebastian and Niklas were working at a Burger King, and later met Victor when attending the Stockholm School of Economics.
-	* Before studying for his masters, Sebastian missed registration due to being stuck abroad temporarily, and ended up working for a debt collection agency that had been contracted by e-commerce stores to collect on past due invoices following the Dotcom crisis.
-	* Sebastian came up with an idea to start a company that takes on the credit risk for the merchants, and presented the idea as a project at the Stockholm School of Economics, but had been told that it would never work (productmint.com).
-	* The idea had been focused on the notion that people want to shop online and do not have the option to reputably ‘try before they buy’.
+	* Before studying for his masters, Sebastian missed registration due to being stuck abroad temporarily, and ended up working for a debt collection agency by happenstance that had been contracted by e-commerce stores to collect on past due invoices following the Dotcom crisis.
+	* Sebastian came up with an idea to start a company that takes on the credit risk for the merchants that profits from transaction fees, and presented the idea as a project at the Stockholm School of Economics, but had been told that it would never work (productmint.com).
+	* The idea had been focused on the notion that people want to shop online and do not have the option to reputably ‘try before they buy’.  They sought to develop a website that creates a seamless process for customers at checkout.
 	* When presenting the idea, they decided to maintain a narrow scope and disrupt banking through FinTech.  Their approach continues to be to focus on the westernized global community, and remains rooted in their niche rather than trying to be a bank that covers a wide scope.  Retail banks are focused on payments, lending and savings, and they choose to keep their scope narrow.
 	* Payment companies and banks will make less as they try to compete on price, so Klarna must compete in other ways in order to gain a greater share of the market while prices compress (Slush Interview).
 
@@ -26,14 +26,14 @@
 		* Initial Funding:  60,000€ in seed funding for a 10% stake and 5 software developers for an additional 37% stake
 	* Klarna has received $2.1B in additional funding from 40 different private equity firms, corporations and individual investors such as Sequoia Capital, HMI Capital, Blackrock, H&M, Visa and Snoop Dogg (Crunchbase & Dealroom).
 
-* *Early Near Death Experience* 
+* *Early 'Near Death Experience'* 
 	* First Christmas:  When they were supposed to pay their merchants from their company bank accounts during the holiday shopping rush, they did not have the money.  They delayed their employees salaries to pay the merchants, and also asked merchants if they could be granted some grace in providing them with timely payment (Slush Interview).  They fortunately maintained trust and survived.
 
 ## Business Activities:
 * *Who Klarna Is*
 	* Klarna provides a seamless client checkout experience by linking merchants, payment solutions, and their consumers through an app that focuses on ease of use, aesthetics, and smooth shipping / returns.
 	* They are a fully licensed bank in Europe,  and operate differently in the US.  
-	* /Klarna Holding AB/, a Swedish public limited liability company,  has subsidiaries operating 17 countries (Klarna).
+	* *Klarna Holding AB*, a Swedish public limited liability company,  has subsidiaries operating in 17 countries (Klarna).
 	
 * *Who Klarna Is Not*
 	* A retail merchant
