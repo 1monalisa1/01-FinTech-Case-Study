@@ -5,7 +5,7 @@
 
 ## Overview and Origin
 * *Klarna* ®
-	* Founded in Stockholm, Sweden, in 2005
+	* 2005 - Founded in Stockholm, Sweden
 
 * *Founding Team*
 	* Sebastian Siemiatkowski
