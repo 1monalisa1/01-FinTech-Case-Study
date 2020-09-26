@@ -4,7 +4,7 @@
 ![Klarna-Logo](https://github.com/1monalisa1/FinTech-Case-Study/blob/master/Images/Klarna-Logo.png?raw=true)
 
 ## Overview and Origin
-* *Klarna*
+* *Klarna*(R)
 	* Founded in Stockholm, Sweden, in 2005
 
 * /Founding Team/
