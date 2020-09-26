@@ -155,7 +155,7 @@
 ## Addendum
 ### Sources
 
-* CNBC - Inview with CEO - 06/17/2020
+* CNBC Interview - Interview with CEO - 06/17/2020
 	* [2020 Disruptor 50: Klarna CEO on business model, U.S. market growth - YouTube](https://www.youtube.com/watch?v=D8dTWQjM50M)
 
 * Crunchbase Data - 09/25/2020
@@ -176,7 +176,7 @@
 * Productmint.com Article - 09/2020
 	* [The Klarna Business Model - How Does Klarna Work & Make Money?](https://productmint.com/the-klarna-business-model-how-does-klarna-make-money/)
 
-* Slush - Interview with CEO & CNBC International Technology Correspondent, Arjun Kharpal - 12/09/2016
+* Slush Interview - Interview with CEO & CNBC International Technology Correspondent, Arjun Kharpal - 12/09/2016
 	* [How Will Klarna Replace the World’s Credit Cards - YouTube](https://www.youtube.com/watch?v=eWxkS78bcJQ)
 
 
