@@ -142,7 +142,7 @@
 	* Has Klarna considered partnering with government agencies or the United Nations around responsible credit use initiatives?
 
 * *Why do you think that offering this product or service would benefit the company?*
-	* Clothing Resale / Cloth Rental Markets:  More transactions, more revenue.  
+	* Clothing Resale / Clothing Rental Markets:  More transactions, more revenue.  
 	* Financial Education:  Feeling good about the product/service they offer, improving the spending habits of millenials, goodwill of the communities they operate within, and good press which all could also ultimately lead to broadening their marketshare. 
 	* Partnerships with Government Agencies / United Nations:  The data Klarna has accumulated over time may have monetary value, and may also aid organizations in understanding the consumer spending habits and fluid attitudes toward credit in the communities they serve.
 
