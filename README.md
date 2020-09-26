@@ -4,7 +4,7 @@
 ![Klarna-Logo](https://github.com/1monalisa1/FinTech-Case-Study/blob/master/Images/Klarna-Logo.png?raw=true)
 
 ## Overview and Origin
-* *Klarna*®
+* *Klarna* ®
 	* Founded in Stockholm, Sweden, in 2005
 
 * *Founding Team*
@@ -25,7 +25,7 @@
 		* Initial Funding:  60,000€ in seed funding for a 10% stake and 5 software developers for an additional 37% stake
 	* Klarna has received $2.1B in additional funding from 40 different private equity firms, corporations and individual investors such as Sequoia Capital, HMI Capital, Blackrock, H&M, Visa and Snoop Dogg (Crunchbase & Dealroom).
 
-*Early Near Death Experience* 
+* *Early Near Death Experience* 
 	* First Christmas:  When they were supposed to pay their merchants from their company bank accounts during the holiday shopping rush, they did not have the money.  They delayed their employees salaries to pay the merchants, and also asked merchants if they could be granted some grace in providing them with timely payment (Slush Interview).  They fortunately maintained trust and survived.
 
 ## Business Activities:
