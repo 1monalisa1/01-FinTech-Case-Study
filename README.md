@@ -29,7 +29,7 @@
 * *Early 'Near Death Experience'* 
 	* First Christmas:  When they were supposed to pay their merchants from their company bank accounts during the holiday shopping rush, they did not have the money.  They delayed their employees salaries to pay the merchants, and also asked merchants if they could be granted some grace in providing them with timely payment (Slush Interview).  They fortunately maintained trust and survived.
 
-## Business Activities:
+## Business Activities
 * *Who Klarna Is*
 	* Klarna provides a seamless client checkout experience by linking merchants, payment solutions, and their consumers through an app that focuses on ease of use, aesthetics, and smooth shipping / returns.
 	* They are a fully licensed bank in Europe,  and operate differently in the US.  
@@ -73,7 +73,7 @@
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)**
 
 
-## Landscape:
+## Landscape
 * *Klarna’s FinTech Domain*
 	* Consumer payments and credit services
 
