@@ -61,7 +61,7 @@
 		* 3-36 month financing available for larger purchases
 		* Pay in-full within 30 days (Klarna)
 			* Klarna allows customers “to skip paying for an item upfront, and just entering an e-mail and delivery addresses. Klarna analyzes a person’s online credit history and browsing behavior to determine if they are creditworthy (Forbes).”
-			* Klarna uses the customer’s address and email address to run a soft credit check paired with their Klarna shopping history and cell phone location data to assess risk when determining if they are eligible for BNPL on the transaction (finder.com)
+			* Klarna uses the customer’s address and email address to run a soft credit check paired with their Klarna shopping history and cell phone location data to assess risk when determining if they are eligible for BNPL on the transaction (Finder.com).
 			
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?**
