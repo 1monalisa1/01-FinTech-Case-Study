@@ -91,7 +91,7 @@
 * *Trends and Expansion within Consumer Payments and Credit Services*
 	* Large companies such as Apple and Google have added payment processing features for their customers.  
 	* PayPal and Venmo continue to also expand within the consumer payment processing and credit space.
-	* Large banks such as JPMorgan Chase (Paymentech) have begun enhancing their merchant services software and customer facing applications by leveraging new developments within the FinTech community.
+	* Large banks such as JPMorgan Chase's Paymentech have begun enhancing their merchant services software and customer facing applications by leveraging new developments within the FinTech community.
 	* Klarna intends to continue expanding their marketshare by providing an exceptionally *‘smoooth’* customer experience around the checkout and return processes on their app.
 
 * *Main Competitors*
