@@ -4,7 +4,7 @@
 ##### Published:  September 26, 2020
 ![Klarna-Logo](https://github.com/1monalisa1/FinTech-Case-Study/blob/master/Images/Klarna-Logo.png?raw=true)
 
-## Overview & Origin
+## Origin & Overview
 * *Klarna* ®
 	* 2005 • Founded in Stockholm, Sweden
 
