@@ -90,8 +90,9 @@
 
 * *Trends and Expansion within Consumer Payments and Credit Services*
 	* Large companies such as Apple and Google have added payment processing features for their customers.  
-	* PayPal and Venmo continue to also expand within the consumer payment processing and credit space.  
-	* Klarna intends to continue expanding their marketshare by providing an exceptionally /‘smoooth’/ customer experience around the checkout and return processes on their app.
+	* PayPal and Venmo continue to also expand within the consumer payment processing and credit space.
+	* Large banks such as JPMorgan Chase (Paymentech) have begun enhancing their merchant services software and customer facing applications by leveraging new developments within the FinTech community.
+	* Klarna intends to continue expanding their marketshare by providing an exceptionally *‘smoooth’* customer experience around the checkout and return processes on their app.
 
 * *Main Competitors*
 	* PayPal Credit:  Klarna’s focus on ‘buy now, pay later’ (BNPL) is in direct competition with PayPal ’s financing business, PayPal Credit (Forbes).
@@ -100,23 +101,23 @@
 		* Millennials are using credit cards less than older generations, and have shown a preference for financing that does not impact their credit report with specified payment terms at the time of purchase rather than the ambiguity of open-ended lines of credit.
 
 * *Competitors With Whom Klarna Chooses Not to Proactively Compete* 
-	 * Who:  Google, ApplePay, large banks with large scopes, Chinese and Japanese payment processing companies
+	* Who:  Google, ApplePay, large banks with large scopes, Chinese and Japanese payment processing companies
 	* Why:  They believe that focusing on their niche market in western countries will help them win the greatest market share in the markets they serve through providing an exceptional customer experience (Slush Interview).
 
 * *How Does Klarna Make Money?*
 	* Merchants are charged a transaction fee.
 		* Posted Rate:  From 0.30 USD + 3.29% per transaction (Klarna)
-	* 	Customers are not charged late fees or transaction fees.
+	* Customers are not charged late fees or transaction fees.
 		* Customers are charged interest only in certain markets like the US.
 
 * *Risks to Profitability*
 	* Fraud and credit losses
 	* Underestimating their competitors in the broader marketplace
-	* Eastern creativity, efficiency and work ethic (Slush Interview)
+	* Eastern creativity, efficiency and work ethic expanding their companies from China and Japan to western markets (Slush Interview)
 	* Future FinTech disrupters entering the market that challenge or improve upon Klarna’s business model
 
 *Market Differences Across Borders* 
- 	* Consumer behavior is different in each country, so the product must  iterate to meet the needs and trends of each market.
+ 	* Consumer behavior is different in each country, so the product must iterate to meet the needs and trends of each market.
 	* Bank regulators in different countries have different requirements (Slush Interview).
 	
 
