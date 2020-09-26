@@ -22,7 +22,7 @@
 	* Payment companies and banks continue to make less per transaction as they try to compete on price, so Klarna must compete in other ways in order to gain a greater share of the market while prices compress.  Their key differentiator is the ease of doing business provided through their app and the robust partnerships they have built with merchants and other payment processing companies (Slush Interview).
 
 * *Funding*
-	* Following rejection, they met Jane Walerud, one of Sweden’s most successful angel investors, at a networking event (productmint.com).
+	* Following rejection, the founding team met Jane Walerud, one of Sweden’s most successful angel investors, at a networking event (productmint.com).
 		* Initial Funding:  60,000€ in seed funding for a 10% stake and 5 software developers for an additional 37% stake
 	* Klarna has received $2.1B in additional funding from 40 different private equity firms, corporations and individual investors such as Sequoia Capital, HMI Capital, Blackrock, H&M, Visa and Snoop Dogg (Crunchbase & Dealroom).
 
