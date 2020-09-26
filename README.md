@@ -1,4 +1,5 @@
 # FinTech Case Study 
+##### Lisa Esberger
 2020.09.26
 
 ![Klarna-Logo](https://github.com/1monalisa1/FinTech-Case-Study/blob/master/Images/Klarna-Logo.png?raw=true)
