@@ -58,7 +58,7 @@
 		*  Credit card and bank information may be entered following checkout, so that the customer does not need to provide private information when shopping in a public setting such as on a bus or train.
 	* 3 ‘buy now, pay later’ (BNPL) options:
 		* 3 or 4 equal installments 
-		* 3-36 month financing available for larger purchases
+		* 3 to 36 month financing available for larger purchases
 		* Pay in-full within 30 days (Klarna)
 			* Klarna allows customers “to skip paying for an item upfront, and just entering an e-mail and delivery addresses. Klarna analyzes a person’s online credit history and browsing behavior to determine if they are creditworthy (Forbes).”
 			* Klarna uses the customer’s address and email address to run a soft credit check paired with their Klarna shopping history and cell phone location data to assess risk when determining if they are eligible for BNPL on the transaction (Finder.com).
@@ -95,7 +95,7 @@
 	* Klarna intends to continue expanding their marketshare by providing an exceptionally *‘smoooth’* customer experience around the checkout and return processes on their app.
 
 * *Main Competitors*
-	* PayPal Credit:  Klarna’s focus on ‘buy now, pay later’ (BNPL) is in direct competition with PayPal ’s financing business, PayPal Credit (Forbes).
+	* PayPal Credit:  Klarna’s focus on ‘buy now, pay later' is in direct competition with PayPal ’s financing business, PayPal Credit (Forbes).
 		* Klarna’s checkout process is more user friendly and involves less steps than PayPal Credit.
 	* Store Credit Cards / Major Credit Cards:  
 		* Millennials are using credit cards less than older generations, and have shown a preference for financing that does not impact their credit report with specified payment terms at the time of purchase rather than the ambiguity of open-ended lines of credit.
