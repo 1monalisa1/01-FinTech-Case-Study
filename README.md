@@ -156,27 +156,27 @@
 ### Sources
 
 * CNBC - Inview with CEO - 06/17/2020
-[2020 Disruptor 50: Klarna CEO on business model, U.S. market growth - YouTube](https://www.youtube.com/watch?v=D8dTWQjM50M)
+	* [2020 Disruptor 50: Klarna CEO on business model, U.S. market growth - YouTube](https://www.youtube.com/watch?v=D8dTWQjM50M)
 
 * Crunchbase Data - 09/25/2020
-[Klarna - Funding, Financials, Valuation & Investors](https://www.crunchbase.com/organization/klarna/company_financials#funding_rounds)
+	* [Klarna - Funding, Financials, Valuation & Investors](https://www.crunchbase.com/organization/klarna/company_financials#funding_rounds)
 
 * Dealroom Data - 09/25/2020
-[Klarna company information, funding & investors | Dealroom.co](https://app.dealroom.co/companies/klarna)
+	* [Klarna company information, funding & investors | Dealroom.co](https://app.dealroom.co/companies/klarna)
 
 * Finder.com Article - 12/19/2019
-[Klarna Uk: Commercial director on buy now, pay later and shopping flexibility - YouTube](https://www.youtube.com/watch?v=7sfhHoaiRX4)
+	* [Klarna Uk: Commercial director on buy now, pay later and shopping flexibility - YouTube](https://www.youtube.com/watch?v=7sfhHoaiRX4)
 
 * Forbes.com Article - 09/27/2018
-[How Klarna CEO Sebastian Siemiatkowski Went From Flipping Burgers To Building A $2.5 Billion Business](https://www.forbes.com/sites/parmyolson/2018/09/07/how-klarna-ceo-sebastien-siemiakowski-went-from-flipping-burgers-to-building-a-25-billion-business/#48e4df5d1549)
+	* [How Klarna CEO Sebastian Siemiatkowski Went From Flipping Burgers To Building A $2.5 Billion Business](https://www.forbes.com/sites/parmyolson/2018/09/07/how-klarna-ceo-sebastien-siemiakowski-went-from-flipping-burgers-to-building-a-25-billion-business/#48e4df5d1549)
 
 * Klarna’s Website - 09/25/2020
-[About us | Klarna UK](https://www.klarna.com/uk/about-us/)
+	* [About us | Klarna UK](https://www.klarna.com/uk/about-us/)
 
 * Productmint.com Article - 09/2020
-[The Klarna Business Model - How Does Klarna Work & Make Money?](https://productmint.com/the-klarna-business-model-how-does-klarna-make-money/)
+	* [The Klarna Business Model - How Does Klarna Work & Make Money?](https://productmint.com/the-klarna-business-model-how-does-klarna-make-money/)
 
 * Slush - Interview with CEO & CNBC International Technology Correspondent, Arjun Kharpal - 12/09/2016
-[How Will Klarna Replace the World’s Credit Cards - YouTube](https://www.youtube.com/watch?v=eWxkS78bcJQ)
+	* [How Will Klarna Replace the World’s Credit Cards - YouTube](https://www.youtube.com/watch?v=eWxkS78bcJQ)
 
 
