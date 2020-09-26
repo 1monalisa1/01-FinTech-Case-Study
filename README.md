@@ -17,7 +17,7 @@
 	* Sebastian and Niklas were working at a Burger King, and later met Victor when attending the Stockholm School of Economics.
 	* Before studying for his masters, Sebastian missed registration due to being stuck abroad temporarily, and ended up working for a debt collection agency by happenstance that had been contracted by e-commerce stores to collect on past due invoices following the Dotcom crisis.
 	* Sebastian came up with an idea to start a company that takes on the credit risk for the merchants that profits from transaction fees, and presented the idea as a project at the Stockholm School of Economics, but had been told that it would never work (productmint.com).
-	* The idea had been focused on the notion that people want to shop online and do not have the option to reputably ‘try before they buy’.  They sought to develop a website that creates a seamless process for customers at checkout.
+	* The idea had been focused on the notion that people want to shop online and do not have the option to reputably ‘try before they buy’.  The founding team sought to develop a website that creates a seamless process for customers at checkout.
 	* When presenting the idea, they decided to maintain a narrow scope and disrupt banking through FinTech.  Their approach continues to be to focus on the westernized global community, and remains rooted in their niche rather than trying to be a bank that covers a wide scope.  Retail banks are focused on payments, lending and savings, and they choose to keep their scope narrow.
 	* Payment companies and banks will make less as they try to compete on price, so Klarna must compete in other ways in order to gain a greater share of the market while prices compress (Slush Interview).
 
