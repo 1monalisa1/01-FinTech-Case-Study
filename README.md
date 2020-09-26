@@ -116,7 +116,7 @@
 	* Eastern creativity, efficiency and work ethic expanding their companies from China and Japan to western markets (Slush Interview)
 	* Future FinTech disrupters entering the market that challenge or improve upon Klarna’s business model
 
-*Market Differences Across Borders* 
+* *Market Differences Across Borders* 
  	* Consumer behavior is different in each country, so the product must iterate to meet the needs and trends of each market.
 	* Bank regulators in different countries have different requirements (Slush Interview).
 	
