@@ -40,12 +40,12 @@
 	* A bank that provides complex loans or savings products to consumers
 	* A US bank
 	* A franchised business
-
-![Klarna-Try-Before-Buy](https://github.com/1monalisa1/FinTech-Case-Study/blob/master/Images/Klarna-Try-Before-Buy.png)
 	
 * *Specific Financial Problems Klarna Solves*
 	* The founders believed that the checkout, payment and return processes for retail businesses were difficult and fragmented, so they sought a solutions to make these processes seamless and enjoyable for customers.  They initially focused on the idea that customers should have the option to try a product before providing payment to the retailer.   Klarna has leveraged key partnerships and financial technology to provide an exceptional customer experience to both the merchants and customers they serve.
-	
+
+![Klarna-Try-Before-Buy](https://github.com/1monalisa1/FinTech-Case-Study/blob/master/Images/Klarna-Try-Before-Buy.png)
+
 * *Benefits to the Consumer*  
 	* Simplicity, ease of use, access to premium retailers, greater trust in new online retailers, and easy shipping / returns
 	
