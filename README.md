@@ -1,7 +1,7 @@
 # FinTech Case Study 
 2020.09.26
 
-[image:C7CBD9CC-BBCD-4FE0-8FE8-928FEA7318E7-2367-00002396DA8E8A83/Screen Shot 2020-09-26 at 12.02.11 AM.png]
+![Klarna-Logo](https://github.com/1monalisa1/FinTech-Case-Study/blob/master/Images/Klarna-Logo.png?raw=true)
 
 ## Overview and Origin
 * /Klarna/
@@ -40,7 +40,7 @@
 	* A US bank
 	* A franchised business
 
-[image:64F7CB2E-1A4B-411D-9ED3-DBF50F582D1F-2367-00002363D24C2B14/Screen Shot 2020-09-25 at 11.58.29 PM.png]
+![Klarna-Try-Before-Buy](https://github.com/1monalisa1/FinTech-Case-Study/blob/master/Images/Klarna-Try-Before-Buy.png)
 	
 * /Specific Financial Problems Klarna Solves:/
 	* The founders believed that the checkout, payment and return processes for retail businesses were difficult and fragmented, so they sought a solutions to make these processes seamless and enjoyable for customers.  They initially focused on the idea that customers should have the option to try a product before providing payment to the retailer.   Klarna has leveraged key partnerships and financial technology to provide an exceptional customer experience to both the merchants and customers they serve.
@@ -148,7 +148,7 @@
 
 * Why are these technologies appropriate for your solution?
 
-[image:D17E41A2-9C54-436D-B478-CD7BAA925C65-2367-0000237C2260EBBD/Screen Shot 2020-09-25 at 11.59.55 PM.png]
+![Klarna-Smoooth](https://github.com/1monalisa1/FinTech-Case-Study/blob/master/Images/Klarna-Smoooth.png)
 
 ---
 
@@ -161,7 +161,7 @@
 * Crunchbase Data - 09/25/2020
 [Klarna - Funding, Financials, Valuation & Investors](https://www.crunchbase.com/organization/klarna/company_financials#funding_rounds)
 
-* Dealroom Data - 09/25.2020
+* Dealroom Data - 09/25/2020
 [Klarna company information, funding & investors | Dealroom.co](https://app.dealroom.co/companies/klarna)
 
 * Finder.com Article - 12/19/2019
