@@ -9,7 +9,7 @@
 	* 2005 • Founded in Stockholm, Sweden
 	* 2007 • Expanded to Norway, Finland & Denmark
 	* 2010 • Expanded to Germany & the Netherlands
-	* 2011 • Acquired Israeli company Analyzd
+	* 2011 • Acquired Israeli company Analyzd, which led to expansion within Israel
 	* 2012 • Expanded to Austria
 	* 2013 • Merged with German SOFORT AG after Klarna acquired SOFORT Banking and became Klarna Group
 	* 2015 • Expanded to the United States
