@@ -145,12 +145,10 @@ Studios • Peloton • Bose • Missguided • Samsung • Sonos • Beauty Bay
 	* Klarna intends to continue expanding their marketshare by providing an exceptionally *‘smoooth’* customer experience around the checkout and return processes on their app.
 
 * *Main Competitors*
-	* PayPal Credit:  Klarna’s focus on ‘buy now, pay later' is in direct competition with PayPal ’s financing business, PayPal Credit (Forbes).
+	* PayPal Credit:  Klarna’s new focus on ‘buy now, pay later' is in direct competition with PayPal ’s financing business, PayPal Credit (Forbes).  PayPal also has a large share of the market from its tenure in the payment processing space.
 		* Klarna’s checkout process is more user friendly and involves less steps than PayPal Credit.
-	* Afterpay (Australia): 8.4 million users and has a a similar business model
-	* Affirm (US): 4.5 million users and has a similar business model, but also has emergency retailers such as car repair shops on their platform.
-	* Laybuy:
-	* Clearpay: 
+	* Afterpay (Australia): Similar business model currently
+	* Affirm (US): Similar business model, but also has emergency retailers such as car repair shops on their platform.
 	* Store Credit Cards / Major Credit Cards:  
 		* Gen-Z and Millenial consumers are using credit cards less than older generations, and have shown a preference for financing that does not impact their credit report with specified payment terms at the time of purchase rather than the ambiguity of open-ended lines of credit.
 
@@ -188,22 +186,19 @@ Studios • Peloton • Bose • Missguided • Samsung • Sonos • Beauty Bay
 * *If you were to advise the company, what products or services would you suggest they offer?*
 	* Expand to the clothing resale market and high-end clothing rental market through B2C channels.
 		* Continuing to leverage B2C models has proven effective for Klarna, so if Klarna continues to focus on the payment and client experience parts of the process rather than becoming a C2C middleman, this would make for an easy transition since revenue within the current business model is primarily generated from the merchants remitting a portion of the gross transactions to Klarna.
-		* Marketing Campaign: *"Something Old, Something New, Something Borrowed, All Smoooth to You"*
-	* Assess if whether or not to pursue developing financial education:
+		* Marketing Campaign: *"Something Old, Something New, Something Borrowed, Oh so Smoooth"*
+		* Benefits:  More transactions / more revenue.  Expanding consumer base while leveraging current technology.
+	* Incorporate visual search AI technology in current search tools.
+		* If you see something you like when you are out and about in the real world or browsing Instagram from your desk, what if Klarna could locate the exact item or similar items through the merchants they have on their platform?  This could also be used as a prospecting tool, for if an item did not return an exact match, but a match could be found elsewhere, Klarna could use this information to pitch prospective merchants.  Consumers could also use this technology to compare pricing and quality of similar items when making buying decisions.
+		* Benefits:  Instant gratification, increase impulse purchasing, customer spends little to no time searching for what they are looking for, fun technology could increase wallet share and draw attention to Klarna's offering 
+	* Assess if whether or not to pursue creating a financial education program for consumers. This would require the development of a mobile financial education platform or partnership with a current provider in FinTech.
 		* Does this align or conflict with the business’ priorities and values?
 		* Would providing education around responsible credit use help or hurt sales revenues?
 		* Is this something to offer to all of users or for customers that are seeking to repair credit to eventually access financing options through Klarna?
 		* Could participation in financial education help users ‘earn’ access to credit?
+		* Benefits:  Feeling good about the product/service they offer, improving the spending habits of millenials and Gen-Z, goodwill of the communities they operate within, and good press which all could also ultimately lead to broadening their marketshare. 
 	* Has Klarna considered partnering with government agencies or the United Nations around responsible credit use initiatives?
-
-* *Why do you think that offering this product or service would benefit the company?*
-	* Clothing Resale / Clothing Rental Markets:  More transactions, more revenue.  
-	* Financial Education:  Feeling good about the product/service they offer, improving the spending habits of millenials, goodwill of the communities they operate within, and good press which all could also ultimately lead to broadening their marketshare. 
-	* Partnerships with Government Agencies / United Nations:  The data Klarna has accumulated over time may have monetary value, and may also aid organizations in understanding the consumer spending habits and fluid attitudes toward credit in the communities they serve.
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+		* Benefits: The data Klarna has accumulated over time may have monetary value, and may also aid organizations in understanding the consumer spending habits and fluid attitudes toward credit in the communities they serve.  Big data and machine learning could be utilized for this project.
 
 ![Klarna-Smoooth](https://github.com/1monalisa1/FinTech-Case-Study/blob/master/Images/Klarna-Smoooth.png)
 
