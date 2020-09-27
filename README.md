@@ -29,11 +29,11 @@
 * *Who Klarna Is*
 	* Klarna provides a seamless client checkout experience by linking merchants, payment solutions, and their consumers through an app that focuses on ease of use, aesthetics, and smooth shipping / returns.
 	* *Klarna Holding AB*, a Swedish public limited liability company,  has subsidiaries operating in 17 countries (Klarna).
-	* They are a fully licensed bank in Europe,  and operate differently in the US, Canada and Australia.  
+	* They are a fully licensed bank in Europe, and operate differently in the US, Canada and Australia.  
 	
 * *Who Klarna Is Not*
 	* A retail merchant
-	* A bank that provides complex loans or savings products to consumers
+	* A bank that provides complex loans or first-party savings products to consumers
 	* A US bank
 	* A franchised business
 	* A layaway service (not a pay over time, own later service)
