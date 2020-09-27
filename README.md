@@ -28,8 +28,9 @@
 
 * *Who Klarna Is*
 	* Klarna provides a seamless client checkout experience by linking merchants, payment solutions, and their consumers through an app that focuses on ease of use, aesthetics, and smooth shipping / returns.
-	* They are a fully licensed bank in Europe,  and operate differently in the US.  
 	* *Klarna Holding AB*, a Swedish public limited liability company,  has subsidiaries operating in 17 countries (Klarna).
+	* They are a fully licensed bank in Europe,  and operate differently in the US, Canada and Australia.  
+	
 	
 * *Who Klarna Is Not*
 	* A retail merchant
@@ -75,7 +76,7 @@
 	* 2017 • Expanded to the United Kingdom and acquired BillPay, a European payment solutions provider
 	* 2018 • Acquired ShopCo Technologies, a US universal cart browser extension parent company, and Close Brothers, a UK omnichannel retail finance provider with active merchants
 	* 2019 • Partnered with PayBright, a Canadian point-of-sale financing company, and expanded within Canada	
-	* 2020 • Expanded to Australia, Belgium & Spain.  Acquired Spring Marketplace, retail marketing company, and Moneymour, an Italian provider of point of sale loans, which also lead to expansion within Italy (Crowdfund Insider, Crunchbase & Klarma).
+	* 2020 • Expanded to Australia, New Zealand, Belgium & Spain.  Acquired Spring Marketplace, retail marketing company, and Moneymour, an Italian provider of point of sale loans, which also lead to expansion within Italy (Crowdfund Insider, Crunchbase, Klarma & PR Newswire).
 	
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?**
 
@@ -192,6 +193,9 @@
 	
 * Klarna's Investor Relations Site - 09/26/2020
 	* [Investor relations | Klarna International](https://www.klarna.com/international/about-us/corporate-governance/investor-relations/) 
+
+* PR Newswire - 01/30/2020
+	&[Klarna Launches in Australia](https://www.prnewswire.com/news-releases/klarna-launches-in-australia-300995908.html#:~:text=Klarna%20partnered%20with%20The%20Commonwealth,in%20a%20few%20easy%20steps.)
 
 * Productmint.com Article - 09/2020
 	* [The Klarna Business Model - How Does Klarna Work & Make Money?](https://productmint.com/the-klarna-business-model-how-does-klarna-make-money/)
