@@ -16,7 +16,8 @@
 	* 2015 • Acquired Cookies App, a German-based money transfer app
 	* 2017 • Expanded to the United Kingdom and acquired BillPay, a European payment solutions provider
 	* 2018 • Acquired ShopCo Technologies, a US universal cart browser extension parent company, and Close Brothers, a UK omnichannel retail finance provider with active merchants
-	* 2020 • Expanded to Australia.  Acquired Spring Marketplace, retail marketing company, and Moneymour, an Italian provider of point of sale loans, which also lead to expansion within Italy.
+	* 2019 • Partnered with PayBright, a Canadian point-of-sale financing company, and expanded within Canada	
+	* 2020 • Expanded to Australia, Belgium & Spain.  Acquired Spring Marketplace, retail marketing company, and Moneymour, an Italian provider of point of sale loans, which also lead to expansion within Italy (Crowdfund Insider, Crunchbase & Klarma).
 
 * *Founding Team*
 	* Sebastian Siemiatkowski
@@ -170,6 +171,9 @@
 * CNBC Interview - Interview with CEO - 06/17/2020
 	* [2020 Disruptor 50: Klarna CEO on business model, U.S. market growth - YouTube](https://www.youtube.com/watch?v=D8dTWQjM50M)
 
+* Crowdfund Insider - 03/06/2019
+	* [Global Payments Provider Klarna Announces New Partnership With Canadian Instant Financing Provider PayBright](https://www.crowdfundinsider.com/2019/03/145145-global-payments-provider-klarna-announces-new-partnership-with-canadian-instant-financing-provider-paybright/)
+
 * Crunchbase Data - 09/25/2020
 	* [Klarna - Funding, Financials, Valuation & Investors](https://www.crunchbase.com/organization/klarna/company_financials#funding_rounds)
 
@@ -184,6 +188,9 @@
 
 * Klarna’s Website - 09/25/2020
 	* [About us | Klarna UK](https://www.klarna.com/uk/about-us/)
+	
+* Klarna's Investor Relations Site - 09/26/2020
+	* [Investor relations | Klarna International](https://www.klarna.com/international/about-us/corporate-governance/investor-relations/) 
 
 * Productmint.com Article - 09/2020
 	* [The Klarna Business Model - How Does Klarna Work & Make Money?](https://productmint.com/the-klarna-business-model-how-does-klarna-make-money/)
