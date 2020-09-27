@@ -86,19 +86,6 @@ Studios • Peloton • Bose • Missguided • Samsung • Sonos • Beauty Bay
 			* Klarna allows customers “to skip paying for an item upfront, and just entering an e-mail and delivery addresses. Klarna analyzes a person’s online credit history and browsing behavior to determine if they are creditworthy (Forbes).”
 			* Klarna uses the customer’s address and email address to run a soft credit check paired with their Klarna shopping history and cell phone location data to assess risk when determining if they are eligible for BNPL on the transaction (Finder.com).
 			
-* *Growth & Expansion*
-	* 2007 • Expanded to Norway, Finland & Denmark
-	* 2010 • Expanded to Germany & the Netherlands
-	* 2011 • Acquired Israeli company Analyzd, which led to expansion within Israel
-	* 2012 • Expanded to Austria
-	* 2013 • Merged with German SOFORT AG after Klarna acquired SOFORT Banking and became Klarna Group
-	* 2015 • Expanded to the United States
-	* 2015 • Acquired Cookies App, a German-based money transfer app
-	* 2017 • Expanded to the United Kingdom and acquired BillPay, a European payment solutions provider
-	* 2018 • Acquired ShopCo Technologies, a US universal cart browser extension parent company, and Close Brothers, a UK omnichannel retail finance provider with active merchants
-	* 2019 • Partnered with PayBright, a Canadian point-of-sale financing company, and expanded within Canada	
-	* 2020 • Expanded to Australia, New Zealand, Belgium & Spain.  Acquired Spring Marketplace, retail marketing company, and Moneymour, an Italian provider of point of sale loans, which also lead to expansion within Italy (Crowdfund Insider, Crunchbase, Klarma & PR Newswire).
-	
 * *Leveraging Technology*
 	* Klarna Shopping App: Available on iOS & Android
 		* According to Klarna's website, their app has had:
@@ -126,6 +113,20 @@ Studios • Peloton • Bose • Missguided • Samsung • Sonos • Beauty Bay
 * *Klarna’s FinTech Domain*
 	* Consumer payments and credit services
 
+* *Growth & Expansion*
+	* 2005 • Founded in Stockholm, Sweden
+	* 2007 • Expanded to Norway, Finland & Denmark
+	* 2010 • Expanded to Germany & the Netherlands
+	* 2011 • Acquired Israeli company Analyzd, which led to expansion within Israel
+	* 2012 • Expanded to Austria
+	* 2013 • Merged with German SOFORT AG after Klarna acquired SOFORT Banking and became Klarna Group
+	* 2015 • Expanded to the United States
+	* 2015 • Acquired Cookies App, a German-based money transfer app
+	* 2017 • Expanded to the United Kingdom and acquired BillPay, a European payment solutions provider
+	* 2018 • Acquired ShopCo Technologies, a US universal cart browser extension parent company, and Close Brothers, a UK omnichannel retail finance provider with active merchants
+	* 2019 • Partnered with PayBright, a Canadian point-of-sale financing company, and expanded within Canada	
+	* 2020 • Expanded to Australia, New Zealand, Belgium & Spain.  Acquired Spring Marketplace, retail marketing company, and Moneymour, an Italian provider of point of sale loans, which also lead to expansion within Italy (Crowdfund Insider, Crunchbase, Klarma & PR Newswire).
+
 * *Klarna’s Reach in 2020* 
 	* Total end-customers:  85,000,000
 	* Total number of merchants:  200,000
@@ -136,7 +137,7 @@ Studios • Peloton • Bose • Missguided • Samsung • Sonos • Beauty Bay
 	* E-commerce marketshare in Sweden:  40%
 	* Largest global provider of BNPL solutions (Klarna)
 	* Highest valued FinTech firm in Europe (CNBC)
-
+	
 * *Trends and Expansion within Consumer Payments and Credit Services*
 	* Large companies such as Apple and Google have added payment processing features for their customers.  
 	* PayPal and Venmo continue to also expand within the consumer payment processing and credit space.
