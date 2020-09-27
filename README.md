@@ -163,10 +163,11 @@ Studios • Peloton • Bose • Missguided • Samsung • Sonos • Beauty Bay
 		* Customers are charged interest only in certain markets like the US.
 
 * *Risks to Profitability*
-	* Fraud and credit losses
-	* Underestimating their competitors in the broader marketplace
+	* Underestimating their competitors in the broader marketplace that have greater scale and machine learning data on their side.
 	* Eastern creativity, efficiency and work ethic expanding their companies from China and Japan to western markets (Slush Interview)
 	* Future FinTech disrupters entering the market that challenge or improve upon Klarna’s business model
+	* Fraud and credit losses
+		* How is the current and near future state of the global economy going to impact POS credit offerings and defaults?  One critic argues the point, “What the danger is and where the risk is, is the risk models underneath,” she said. “If you’re able to get full data on customers digitally and bring all that into underwriting immediately, the technology is only as good as your underwriting models underneath. I would argue that these new players may not survive an economic downturn because of their underwriting models” (American Banker).
 
 * *Market Differences Across Borders* 
  	* Why different services are offered in the countries they serve:
