@@ -50,7 +50,7 @@
 
 * *Benefits to the Consumer*  
 	* Simplicity, ease of use, access to premium retailers, greater trust in new online retailers, and easy shipping & returns (Klarna)
-	
+
 * *Benefits to the Merchant*
 	* Merchant does not bear the credit risk,  payments are received within 3 days of the point-of-sale, increase in order size, increase in repeat business,  online retailers gain consumer trust, and the payment / delivery / return customer experience is outsourced
 	* Their merchants are willing to pay Klarna a premium versus what they are willing to pay other merchant service companies for payment processing because Klarna drives customers to their businesses through their app, and also enhances the overall customer experience throughout the checkout process which drives greater brand loyalty (CNBC Interview).
@@ -63,13 +63,19 @@ Studios • Peloton • Bose • Missguided • Samsung • Sonos • Beauty Bay
 & Fitch, Lenovo • Overstock • Michael Kors
 * *Merchant Integration*
 	* On the merchants' websites and mobile apps, the customer encounters Klarna through the following touchpoints:
-		* Home / Landing Page:  Top strip banners introduce Klarna.
-		* Search / Category Page:  Personalized payment promotions are integrated on the search page.
-		* Product Page:  Show personalized payment promotionals with each product.
-		* Card Page:  Cart placements show the promotional price for the entire cart.
-		* Checkout Page:  Payment selector & checkout widget explain Klarna in simple terms during a one-click checkout.
-		* Pre-qualification Banners:  Help customers know how likely they are to receive credit.
-		* Instant Shopping Buttons:  Offer express checkout that let customers buy quickly anywhere (Klarna Handbook).
+		* While Shopping
+			* Home / Landing Page:  Top strip banners introduce Klarna.
+			* Search / Category Page:  Personalized payment promotions are integrated on the search page.
+			* Product Page:  Show personalized payment promotionals with each product.
+			* Card Page:  Cart placements show the promotional price for the entire cart.
+			* Checkout Page:  Payment selector & checkout widget explain Klarna in simple terms during a one-click checkout.
+			* Pre-qualification Banners:  Help customers know how likely they are to receive credit.
+			* Instant Shopping Buttons:  Offer express checkout that let customers buy quickly anywhere (Klarna Handbook).
+		* Post-Purchase
+			* Merchant Email:  Confirmation emails that include Klarna payment information in your customer send-outs.
+			* Klarna App / Klarna.com:  Receipt images to improve clarity and reduce contact rates post-purchase
+			* Shipping Details:  Send shipping details so customers know what is happening to their package.
+			* In-app Shopping:  Configure your brand for shpping with Klarna
 
 * *Financial Arrangements Offered by Klarna*
 	* Pay in-full within a specified period following checkout by entering a major credit card or bank information
@@ -94,11 +100,6 @@ Studios • Peloton • Bose • Missguided • Samsung • Sonos • Beauty Bay
 	* 2019 • Partnered with PayBright, a Canadian point-of-sale financing company, and expanded within Canada	
 	* 2020 • Expanded to Australia, New Zealand, Belgium & Spain.  Acquired Spring Marketplace, retail marketing company, and Moneymour, an Italian provider of point of sale loans, which also lead to expansion within Italy (Crowdfund Insider, Crunchbase, Klarma & PR Newswire).
 	
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?**
-
-
-
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)**
 * *Leveraging Technology*
 	* Klarna Shopping App: Available on iOS & Android
 		* According to Klarna's website, their app has had:
