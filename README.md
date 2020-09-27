@@ -87,13 +87,13 @@
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)**
 * *Leveraging Technology*
 	* Klarna Shopping App: Available on iOS & Android
-		* According to Klarna's website, their app:
+		* According to Klarna's website, their app has had:
 			* 1.3 million app downloads globally (IOS + Android) in May – an all time high. This means on average of close to 			42,000 downloads per day.
 			* More than 16 million downloads in total.
 			* In Q1 2020, Klarna’s app saw almost 300,000 more downloads than our direct competitor in the US.
 			* The app had over 11 million monthly active users globally in April (82% growth year on year).
 			4.7/5 rating in US App Store.
-T			* Top-ranked among shopping apps in all markets where it’s available 
+T			* Top-ranked among shopping apps in all markets where it’s available.
 
 ## Landscape
 * *Klarna’s FinTech Domain*
@@ -156,6 +156,7 @@ T			* Top-ranked among shopping apps in all markets where it’s available
 * *If you were to advise the company, what products or services would you suggest they offer?*
 	* Expand to the clothing resale market and high-end clothing rental market through B2C channels.
 		* Continuing to leverage B2C models has proven effective for Klarna, so if Klarna continues to focus on the payment and client experience parts of the process rather than becoming a C2C middleman, this would make for an easy transition since revenue within the current business model is primarily generated from the merchants remitting a portion of the gross transactions to Klarna.
+		* Marketing Campaign: *"Something Old, Something New, Something Borrowed, All Smoooth to you"*
 	* Assess if whether or not to pursue developing financial education:
 		* Does this align or conflict with the business’ priorities and values?
 		* Would providing education around responsible credit use help or hurt sales revenues?
