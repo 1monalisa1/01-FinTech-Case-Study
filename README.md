@@ -206,7 +206,7 @@
 * Forbes.com Article - 09/27/2018
 	* [How Klarna CEO Sebastian Siemiatkowski Went From Flipping Burgers To Building A $2.5 Billion Business](https://www.forbes.com/sites/parmyolson/2018/09/07/how-klarna-ceo-sebastien-siemiakowski-went-from-flipping-burgers-to-building-a-25-billion-business/#48e4df5d1549)
 
-* Foreseeti.com - 
+* Foreseeti.com - 2020
 	* [Case Study of Klarna cloud architectures | foreseeti](https://foreseeti.com/klarna-cloud-architectures/)
 
 * Klarna’s About Us Website - 09/25/2020
