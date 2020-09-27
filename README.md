@@ -55,6 +55,13 @@
 	* Merchant does not bear the credit risk,  payments are received within 3 days of the point-of-sale, increase in order size, increase in repeat business,  online retailers gain consumer trust, and the payment / delivery / return customer experience is outsourced
 	* Their merchants are willing to pay Klarna a premium versus what they are willing to pay other merchant service companies for payment processing because Klarna drives customers to their businesses through their app, and also enhances the overall customer experience throughout the checkout process which drives greater brand loyalty (CNBC Interview).
 
+* *Merchants • Over 200,000 Including:
+	* Sephora • Groupon • SHEIN • Nixon • Charlotte Tilbury • Vans • The North Face • Ted Baker • Timberland • 
+Ralph Lauren • Club Monaco • Anine Bing • Domino’s Pizza • NTWRK • Finish Line • Aéropostale •
+Nautica • Fender • ASOS • H&M • Gymshark • IKEA • Farfetch • Cult Beauty • Dyson • JD Sports • Acne
+Studios • Peloton • Bose • Missguided • Samsung • Sonos • Beauty Bay, AliExpress • Abercrombie
+& Fitch, Lenovo • Overstock • Michael Kors
+
 * *Financial Arrangements Offered by Klarna*
 	* Pay in-full within a specified period following checkout by entering a major credit card or bank information
 		*  Credit card and bank information may be entered following checkout, so that the customer does not need to provide private information when shopping in a public setting such as on a bus or train.
@@ -80,9 +87,7 @@
 	
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?**
 
-* Key Partnerships**
-**	* 
-* Types of Merchants**
+
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)**
 * *Leveraging Technology*
@@ -102,7 +107,7 @@
 			  "Through automated modelling of our environment, we see a potential to significantly increase development speed, and take on the challenge of looking at the whole while having clear control of all the details and moving pieces.
 
 			  "The simulation capability increases both our capability to see how changes in one team’s environment can affect others and to make assessments more consistent. In the end, it increases security where it really counts" (Foreseeti).
-	* AWS: As of December of 2019, Amazon Web Service became Klarma's preferred cloud provider.
+	* AWS: As of December of 2019, Amazon Web Services became Klarma's preferred cloud provider.
 		* "As a fully licensed bank, Klarna works closely with AWS’s compliance and security assurance teams to help it maintain the necessary trusted infrastructure to the highest security standards and has built its core banking platform on AWS from the ground up. To complement this, Klarna has developed a microservices architecture on AWS that will optimize costs by using Amazon Elastic Kubernetes Service" (Business Wire).
 		* "Klarna plans to follow up the successful launches of its cloud-based Open Banking Platform and Customer Authentication Platform with additional on-demand products using AWS. “Open Banking by Klarna” provides online merchants and eCommerce providers with the ability to leverage Klarna’s secure, reliable, and compliant banking infrastructure to develop their own payment facilities. It also opens up the ability for these online providers to connect with Klarna’s network of over 4,300 financial institutions around the world to better serve their customers. The Customer Authentication Platform allows multinational businesses to provide a simple, secure, and personalized customer authentication experience in any market through a one-time integration" (Business Wire) 
 		* "Klarna is also planning to use AWS’s ML services, such as Amazon SageMaker, to help merchants train and build ML models to better identify and manage risk, predicting credit scores in real time, forecasting long-term economic trends, and helping end users to better manage payments and other transactions" (Business Wire).
