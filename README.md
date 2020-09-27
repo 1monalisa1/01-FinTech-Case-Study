@@ -49,7 +49,7 @@
 ![Klarna-Try-Before-Buy](https://github.com/1monalisa1/FinTech-Case-Study/blob/master/Images/Klarna-Try-Before-Buy.png)
 
 * *Benefits to the Consumer*  
-	* Simplicity, ease of use, access to premium retailers, greater trust in new online retailers, and easy shipping / returns
+	* Simplicity, ease of use, access to premium retailers, greater trust in new online retailers, and easy shipping & returns (Klarna)
 	
 * *Benefits to the Merchant*
 	* Merchant does not bear the credit risk,  payments are received within 3 days of the point-of-sale, increase in order size, increase in repeat business,  online retailers gain consumer trust, and the payment / delivery / return customer experience is outsourced
