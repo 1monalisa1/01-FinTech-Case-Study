@@ -85,6 +85,15 @@
 * Types of Merchants**
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)**
+* *Leveraging Technology*
+	* Klarna Shopping App: Available on iOS & Android
+		* According to Klarna's website, their app:
+			* 1.3 million app downloads globally (IOS + Android) in May – an all time high. This means on average of close to 			42,000 downloads per day.
+			* More than 16 million downloads in total.
+			* In Q1 2020, Klarna’s app saw almost 300,000 more downloads than our direct competitor in the US.
+			* The app had over 11 million monthly active users globally in April (82% growth year on year).
+			4.7/5 rating in US App Store.
+T			* Top-ranked among shopping apps in all markets where it’s available 
 
 ## Landscape
 * *Klarna’s FinTech Domain*
