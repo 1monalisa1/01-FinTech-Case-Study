@@ -93,7 +93,8 @@
 			* In Q1 2020, Klarna’s app saw almost 300,000 more downloads than our direct competitor in the US.
 			* The app had over 11 million monthly active users globally in April (82% growth year on year).
 			4.7/5 rating in US App Store.
-T			* Top-ranked among shopping apps in all markets where it’s available.
+			* Top-ranked among shopping apps in all markets where it’s available.
+			* More than 2.7 million items to their wish lists since the feature became available in 2019.
 
 ## Landscape
 * *Klarna’s FinTech Domain*
