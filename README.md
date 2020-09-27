@@ -62,7 +62,7 @@ Nautica • Fender • ASOS • H&M • Gymshark • IKEA • Farfetch • Cult 
 Studios • Peloton • Bose • Missguided • Samsung • Sonos • Beauty Bay, AliExpress • Abercrombie
 & Fitch, Lenovo • Overstock • Michael Kors
 * *Merchant Integration*
-	* On the merchant's website and mobile apps, the customer encounters Klarna through the following touchpoints:
+	* On the merchants' websites and mobile apps, the customer encounters Klarna through the following touchpoints:
 		* Home / Landing Page:  Top strip banners introduce Klarna.
 		* Search / Category Page:  Personalized payment promotions are integrated on the search page.
 		* Product Page:  Show personalized payment promotionals with each product.
