@@ -36,7 +36,7 @@
 	* A bank that provides complex loans or savings products to consumers
 	* A US bank
 	* A franchised business
-	
+	* A layaway service (not a pay over time, own later service)
 * *Early 'Near Death Experience'* 
 	* First Christmas:  When they were supposed to pay their merchants from their company bank accounts during the holiday shopping rush, they did not have the money.  They delayed their employees salaries to pay the merchants, and also asked merchants if they could be granted some grace in providing them with timely payment (Slush Interview).  They fortunately maintained trust and survived.
 
@@ -147,8 +147,12 @@ Studios • Peloton • Bose • Missguided • Samsung • Sonos • Beauty Bay
 * *Main Competitors*
 	* PayPal Credit:  Klarna’s focus on ‘buy now, pay later' is in direct competition with PayPal ’s financing business, PayPal Credit (Forbes).
 		* Klarna’s checkout process is more user friendly and involves less steps than PayPal Credit.
+	* Afterpay (Australia): 8.4 million users and has a a similar business model
+	* Affirm (US): 4.5 million users and has a similar business model, but also has emergency retailers such as car repair shops on their platform.
+	* Laybuy:
+	* Clearpay: 
 	* Store Credit Cards / Major Credit Cards:  
-		* Millennials are using credit cards less than older generations, and have shown a preference for financing that does not impact their credit report with specified payment terms at the time of purchase rather than the ambiguity of open-ended lines of credit.
+		* Gen-Z and Millenial consumers are using credit cards less than older generations, and have shown a preference for financing that does not impact their credit report with specified payment terms at the time of purchase rather than the ambiguity of open-ended lines of credit.
 
 * *Competitors With Whom Klarna Chooses Not to Proactively Compete* 
 	* Who:  Google, ApplePay, large banks with large scopes, Chinese and Japanese payment processing companies
@@ -167,9 +171,9 @@ Studios • Peloton • Bose • Missguided • Samsung • Sonos • Beauty Bay
 	* Future FinTech disrupters entering the market that challenge or improve upon Klarna’s business model
 
 * *Market Differences Across Borders* 
- 	* Consumer behavior is different in each country, so the product must iterate to meet the needs and trends of each market.
-	* Bank regulators in different countries have different requirements (Slush Interview).
-	
+ 	* Why different services are offered in the countries they serve:
+		* Consumer behavior is different in each country, so the product must iterate to meet the needs and trends of each market.
+		* Bank regulators in different countries have different requirements (Slush Interview).	
 
 ## Results
 
