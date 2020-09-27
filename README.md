@@ -7,17 +7,6 @@
 ## Origin & Overview
 * *Klarna* ®
 	* 2005 • Founded in Stockholm, Sweden
-	* 2007 • Expanded to Norway, Finland & Denmark
-	* 2010 • Expanded to Germany & the Netherlands
-	* 2011 • Acquired Israeli company Analyzd, which led to expansion within Israel
-	* 2012 • Expanded to Austria
-	* 2013 • Merged with German SOFORT AG after Klarna acquired SOFORT Banking and became Klarna Group
-	* 2015 • Expanded to the United States
-	* 2015 • Acquired Cookies App, a German-based money transfer app
-	* 2017 • Expanded to the United Kingdom and acquired BillPay, a European payment solutions provider
-	* 2018 • Acquired ShopCo Technologies, a US universal cart browser extension parent company, and Close Brothers, a UK omnichannel retail finance provider with active merchants
-	* 2019 • Partnered with PayBright, a Canadian point-of-sale financing company, and expanded within Canada	
-	* 2020 • Expanded to Australia, Belgium & Spain.  Acquired Spring Marketplace, retail marketing company, and Moneymour, an Italian provider of point of sale loans, which also lead to expansion within Italy (Crowdfund Insider, Crunchbase & Klarma).
 
 * *Founding Team*
 	* Sebastian Siemiatkowski
@@ -37,10 +26,6 @@
 		* Initial Funding:  60,000€ in seed funding for a 10% stake and 5 software developers for an additional 37% stake
 	* Klarna has received $2.1B in additional funding from 40 different private equity firms, corporations and individual investors such as Sequoia Capital, HMI Capital, Blackrock, H&M, Visa and Snoop Dogg (Crunchbase & Dealroom).
 
-* *Early 'Near Death Experience'* 
-	* First Christmas:  When they were supposed to pay their merchants from their company bank accounts during the holiday shopping rush, they did not have the money.  They delayed their employees salaries to pay the merchants, and also asked merchants if they could be granted some grace in providing them with timely payment (Slush Interview).  They fortunately maintained trust and survived.
-
-## Business Activities
 * *Who Klarna Is*
 	* Klarna provides a seamless client checkout experience by linking merchants, payment solutions, and their consumers through an app that focuses on ease of use, aesthetics, and smooth shipping / returns.
 	* They are a fully licensed bank in Europe,  and operate differently in the US.  
@@ -52,6 +37,11 @@
 	* A US bank
 	* A franchised business
 	
+* *Early 'Near Death Experience'* 
+	* First Christmas:  When they were supposed to pay their merchants from their company bank accounts during the holiday shopping rush, they did not have the money.  They delayed their employees salaries to pay the merchants, and also asked merchants if they could be granted some grace in providing them with timely payment (Slush Interview).  They fortunately maintained trust and survived.
+
+## Business Activities
+
 * *Specific Financial Problems Klarna Solves*
 	* The founders believed that the checkout, payment and return processes for retail businesses were difficult and fragmented, so they sought a solutions to make these processes seamless and enjoyable for customers.  They initially focused on the idea that customers should have the option to try a product before providing payment to the retailer.   Klarna has leveraged key partnerships and financial technology to provide an exceptional customer experience to both the merchants and customers they serve.
 
@@ -74,7 +64,19 @@
 			* Klarna allows customers “to skip paying for an item upfront, and just entering an e-mail and delivery addresses. Klarna analyzes a person’s online credit history and browsing behavior to determine if they are creditworthy (Forbes).”
 			* Klarna uses the customer’s address and email address to run a soft credit check paired with their Klarna shopping history and cell phone location data to assess risk when determining if they are eligible for BNPL on the transaction (Finder.com).
 			
-
+* *Growth & Expansion*
+	* 2007 • Expanded to Norway, Finland & Denmark
+	* 2010 • Expanded to Germany & the Netherlands
+	* 2011 • Acquired Israeli company Analyzd, which led to expansion within Israel
+	* 2012 • Expanded to Austria
+	* 2013 • Merged with German SOFORT AG after Klarna acquired SOFORT Banking and became Klarna Group
+	* 2015 • Expanded to the United States
+	* 2015 • Acquired Cookies App, a German-based money transfer app
+	* 2017 • Expanded to the United Kingdom and acquired BillPay, a European payment solutions provider
+	* 2018 • Acquired ShopCo Technologies, a US universal cart browser extension parent company, and Close Brothers, a UK omnichannel retail finance provider with active merchants
+	* 2019 • Partnered with PayBright, a Canadian point-of-sale financing company, and expanded within Canada	
+	* 2020 • Expanded to Australia, Belgium & Spain.  Acquired Spring Marketplace, retail marketing company, and Moneymour, an Italian provider of point of sale loans, which also lead to expansion within Italy (Crowdfund Insider, Crunchbase & Klarma).
+	
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?**
 
 * Key Partnerships**
@@ -82,7 +84,6 @@
 * Types of Merchants**
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)**
-
 
 ## Landscape
 * *Klarna’s FinTech Domain*
