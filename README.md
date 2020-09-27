@@ -176,15 +176,6 @@ Studios • Peloton • Bose • Missguided • Samsung • Sonos • Beauty Bay
 		* Consumer behavior is different in each country, so the product must iterate to meet the needs and trends of each market.
 		* Bank regulators in different countries have different requirements (Slush Interview).	
 
-## Results
-
-* What has been the business impact of this company so far?
-
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-
-* How is your company performing relative to competitors in the same domain?
-
-
 ## Recommendations
 * *If you were to advise the company, what products or services would you suggest they offer?*
 	* Expand to the clothing resale market and high-end clothing rental market through B2C channels.
@@ -258,5 +249,3 @@ Studios • Peloton • Bose • Missguided • Samsung • Sonos • Beauty Bay
 * Slush Interview - Interview with CEO & CNBC International Technology Correspondent, Arjun Kharpal - 12/09/2016
 	* [How Will Klarna Replace the World’s Credit Cards - YouTube](https://www.youtube.com/watch?v=eWxkS78bcJQ)
 
-
-.
