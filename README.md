@@ -99,9 +99,9 @@
 		* As stated by Klarna's CSO:
 			* "Manually modelling an environment of our scale for simulation is simply not feasible not with a high level of detail. While simulation is probably one of the few ways to risk assess a large-scale environment in continuous change, the key is to build the model continuously based on the real environment. We see this as a leap, moving away from human subjective assessment and the rigidity of formal strict security frameworks and keeping consistent security. While frameworks and human assessment will absolutely be a part in our work for the foreseeable future, we also have to find new ways to keep our security posture on top and keep a high speed of innovation.
 
-"Through automated modelling of our environment, we see a potential to significantly increase development speed, and take on the challenge of looking at the whole while having clear control of all the details and moving pieces.
+			  "Through automated modelling of our environment, we see a potential to significantly increase development speed, and take on the challenge of looking at the whole while having clear control of all the details and moving pieces.
 
-"The simulation capability increases both our capability to see how changes in one team’s environment can affect others and to make assessments more consistent. In the end, it increases security where it really counts" (Foreseeti).
+			  "The simulation capability increases both our capability to see how changes in one team’s environment can affect others and to make assessments more consistent. In the end, it increases security where it really counts" (Foreseeti).
 
 ## Landscape
 * *Klarna’s FinTech Domain*
