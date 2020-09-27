@@ -102,6 +102,10 @@
 			  "Through automated modelling of our environment, we see a potential to significantly increase development speed, and take on the challenge of looking at the whole while having clear control of all the details and moving pieces.
 
 			  "The simulation capability increases both our capability to see how changes in one team’s environment can affect others and to make assessments more consistent. In the end, it increases security where it really counts" (Foreseeti).
+	* AWS: As of December of 2019, Amazon Web Service became Klarma's preferred cloud provider.
+		* "As a fully licensed bank, Klarna works closely with AWS’s compliance and security assurance teams to help it maintain the necessary trusted infrastructure to the highest security standards and has built its core banking platform on AWS from the ground up. To complement this, Klarna has developed a microservices architecture on AWS that will optimize costs by using Amazon Elastic Kubernetes Service" (Business Wire).
+		* "Klarna plans to follow up the successful launches of its cloud-based Open Banking Platform and Customer Authentication Platform with additional on-demand products using AWS. “Open Banking by Klarna” provides online merchants and eCommerce providers with the ability to leverage Klarna’s secure, reliable, and compliant banking infrastructure to develop their own payment facilities. It also opens up the ability for these online providers to connect with Klarna’s network of over 4,300 financial institutions around the world to better serve their customers. The Customer Authentication Platform allows multinational businesses to provide a simple, secure, and personalized customer authentication experience in any market through a one-time integration" (Business Wire) 
+		* "Klarna is also planning to use AWS’s ML services, such as Amazon SageMaker, to help merchants train and build ML models to better identify and manage risk, predicting credit scores in real time, forecasting long-term economic trends, and helping end users to better manage payments and other transactions" (Business Wire).
 
 ## Landscape
 * *Klarna’s FinTech Domain*
@@ -187,6 +191,9 @@
 
 ## Addendum
 ### Sources
+
+* Business Wire - 12/02/2019
+	* [Klarna Selects AWS as Its Preferred Cloud Provider  | Business Wire](https://www.businesswire.com/news/home/20191202005182/en/Klarna-Selects-AWS-as-Its-Preferred-Cloud-Provider)
 
 * CNBC Interview - Interview with CEO - 06/17/2020
 	* [2020 Disruptor 50: Klarna CEO on business model, U.S. market growth - YouTube](https://www.youtube.com/watch?v=D8dTWQjM50M)
