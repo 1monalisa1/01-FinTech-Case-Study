@@ -61,6 +61,15 @@ Ralph Lauren • Club Monaco • Anine Bing • Domino’s Pizza • NTWRK • F
 Nautica • Fender • ASOS • H&M • Gymshark • IKEA • Farfetch • Cult Beauty • Dyson • JD Sports • Acne
 Studios • Peloton • Bose • Missguided • Samsung • Sonos • Beauty Bay, AliExpress • Abercrombie
 & Fitch, Lenovo • Overstock • Michael Kors
+* *Merchant Integration*
+	*On the merchant's website and mobile apps, the customer encounters Klarna through the following touchpoints:
+		* Home / Landing Page:  Top strip banners introduce Klarna.
+		* Search / Category Page:  Personalized payment promotions are integrated on the search page.
+		* Product Page:  Show personalized payment promotionals with each product.
+		* Card Page:  Cart placements show the promotional price for the entire cart.
+		* Checkout Page:  Payment selector & checkout widget explain Klarna in simple terms during a one-click checkout.
+		* Pre-qualification Banners:  Help customers know how likely they are to receive credit.
+		* Instant Shopping Buttons:  Offer express checkout that let customers buy quickly anywhere (Klarna Handbook).
 
 * *Financial Arrangements Offered by Klarna*
 	* Pay in-full within a specified period following checkout by entering a major credit card or bank information
@@ -226,6 +235,9 @@ Studios • Peloton • Bose • Missguided • Samsung • Sonos • Beauty Bay
 
 * Klarna's App Blog Post - 06/02/2020
 	* [The Klarna app is downloaded 42,000 times per day. Here’s why.](https://www.klarna.com/us/blog/the-klarna-app-is-downloaded-42000-times-per-day-heres-why/)
+
+* Klarna's Handbook - 2019
+	* [Get smoooth Handbook | Official Klarna Technical Documentation](https://developers.klarna.com/resources/get-smoooth-handbook/)
 
 * Klarna's Investor Relations Site - 09/26/2020
 	* [Investor relations | Klarna International](https://www.klarna.com/international/about-us/corporate-governance/investor-relations/) 
