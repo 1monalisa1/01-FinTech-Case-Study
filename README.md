@@ -156,7 +156,7 @@ T			* Top-ranked among shopping apps in all markets where it’s available.
 * *If you were to advise the company, what products or services would you suggest they offer?*
 	* Expand to the clothing resale market and high-end clothing rental market through B2C channels.
 		* Continuing to leverage B2C models has proven effective for Klarna, so if Klarna continues to focus on the payment and client experience parts of the process rather than becoming a C2C middleman, this would make for an easy transition since revenue within the current business model is primarily generated from the merchants remitting a portion of the gross transactions to Klarna.
-		* Marketing Campaign: *"Something Old, Something New, Something Borrowed, All Smoooth to you"*
+		* Marketing Campaign: *"Something Old, Something New, Something Borrowed, All Smoooth to You"*
 	* Assess if whether or not to pursue developing financial education:
 		* Does this align or conflict with the business’ priorities and values?
 		* Would providing education around responsible credit use help or hurt sales revenues?
