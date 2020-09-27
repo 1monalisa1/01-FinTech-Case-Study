@@ -195,7 +195,7 @@
 	* [Investor relations | Klarna International](https://www.klarna.com/international/about-us/corporate-governance/investor-relations/) 
 
 * PR Newswire - 01/30/2020
-	[Klarna Launches in Australia] (https://www.prnewswire.com/news-releases/klarna-launches-in-australia-300995908.html#:~:text=Klarna%20partnered%20with%20The%20Commonwealth,in%20a%20few%20easy%20steps)
+	* [Klarna Launches in Australia](https://www.prnewswire.com/news-releases/klarna-launches-in-australia-300995908.html#:~:text=Klarna%20partnered%20with%20The%20Commonwealth,in%20a%20few%20easy%20steps.)
 
 * Productmint.com Article - 09/2020
 	* [The Klarna Business Model - How Does Klarna Work & Make Money?](https://productmint.com/the-klarna-business-model-how-does-klarna-make-money/)
