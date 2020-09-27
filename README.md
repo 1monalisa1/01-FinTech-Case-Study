@@ -167,7 +167,8 @@ Studios • Peloton • Bose • Missguided • Samsung • Sonos • Beauty Bay
 	* Eastern creativity, efficiency and work ethic expanding their companies from China and Japan to western markets (Slush Interview)
 	* Future FinTech disrupters entering the market that challenge or improve upon Klarna’s business model
 	* Fraud and credit losses
-		* How is the current and near future state of the global economy going to impact POS credit offerings and defaults?  One critic argues the point, “What the danger is and where the risk is, is the risk models underneath,” she said. “If you’re able to get full data on customers digitally and bring all that into underwriting immediately, the technology is only as good as your underwriting models underneath. I would argue that these new players may not survive an economic downturn because of their underwriting models” (American Banker).
+		* How is the current and near future state of the global economy going to impact POS credit offerings and defaults?  
+		* One critic argues the point, “What the danger is and where the risk is, is the risk models underneath,” she said. “If you’re able to get full data on customers digitally and bring all that into underwriting immediately, the technology is only as good as your underwriting models underneath. I would argue that these new players may not survive an economic downturn because of their underwriting models” (American Banker).
 
 * *Market Differences Across Borders* 
  	* Why different services are offered in the countries they serve:
@@ -207,6 +208,9 @@ Studios • Peloton • Bose • Missguided • Samsung • Sonos • Beauty Bay
 
 ## Addendum
 ### Sources
+
+* American Banker - 07/06/2017
+	* [The high-tech, low-effort loans winning over online shoppers | American Banker](https://www.americanbanker.com/news/the-high-tech-low-effort-loans-winning-over-online-shoppers)
 
 * Business Wire - 12/02/2019
 	* [Klarna Selects AWS as Its Preferred Cloud Provider  | Business Wire](https://www.businesswire.com/news/home/20191202005182/en/Klarna-Selects-AWS-as-Its-Preferred-Cloud-Provider)
