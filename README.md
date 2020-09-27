@@ -34,7 +34,7 @@
 * *Who Klarna Is Not*
 	* A retail merchant
 	* A bank that provides complex loans or first-party savings products to consumers
-	* A US bank
+	* A company with a banking charter in the US
 	* A franchised business
 	* A layaway service (not a pay over time, own later service)
 * *Early 'Near Death Experience'* 
