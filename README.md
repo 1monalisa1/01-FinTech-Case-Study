@@ -147,8 +147,8 @@ Studios • Peloton • Bose • Missguided • Samsung • Sonos • Beauty Bay
 * *Main Competitors*
 	* PayPal Credit:  Klarna’s new focus on ‘buy now, pay later' is in direct competition with PayPal ’s financing business, PayPal Credit (Forbes).  PayPal also has a large share of the market from its tenure in the payment processing space.
 		* Klarna’s checkout process is more user friendly and involves less steps than PayPal Credit.
-	* Afterpay (Australia): Similar business model currently
-	* Affirm (US): Similar business model, but also has emergency retailers such as car repair shops on their platform.
+	* Afterpay (Australia): Similar business model currently with less market share.
+	* Affirm (US): Similar business model with less market share, but also has emergency retailers such as car repair shops on their platform.
 	* Store Credit Cards / Major Credit Cards:  
 		* Gen-Z and Millennial consumers are using credit cards less than older generations, and have shown a preference for financing that does not impact their credit report with specified payment terms at the time of purchase rather than the ambiguity of open-ended lines of credit.
 
