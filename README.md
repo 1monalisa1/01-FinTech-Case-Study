@@ -96,6 +96,7 @@ Studios • Peloton • Bose • Missguided • Samsung • Sonos • Beauty Bay
 			4.7/5 rating in US App Store.
 			* Top-ranked among shopping apps in all markets where it’s available.
 			* More than 2.7 million items to their wish lists since the feature became available in 2019.
+	* AI / Machine Learning:  Klarna uses these technologies to determine the creditwortiness of prospective point-of-sale lending customers behind the scenes by analyzing over 100 data points within a matter of seconds.  Information on what specific technology Klarna uses could not be easily located in online searches.
 	* SecuriCAD:  Fully automated security assessments of their cloud architectures for risk assessment
 		* As stated by Klarna's CSO:
 			* "Manually modelling an environment of our scale for simulation is simply not feasible not with a high level of detail. While simulation is probably one of the few ways to risk assess a large-scale environment in continuous change, the key is to build the model continuously based on the real environment. We see this as a leap, moving away from human subjective assessment and the rigidity of formal strict security frameworks and keeping consistent security. While frameworks and human assessment will absolutely be a part in our work for the foreseeable future, we also have to find new ways to keep our security posture on top and keep a high speed of innovation.
