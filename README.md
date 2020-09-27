@@ -55,7 +55,7 @@
 	* Merchant does not bear the credit risk,  payments are received within 3 days of the point-of-sale, increase in order size, increase in repeat business,  online retailers gain consumer trust, and the payment / delivery / return customer experience is outsourced
 	* Their merchants are willing to pay Klarna a premium versus what they are willing to pay other merchant service companies for payment processing because Klarna drives customers to their businesses through their app, and also enhances the overall customer experience throughout the checkout process which drives greater brand loyalty (CNBC Interview).
 
-* *Merchants • Over 200,000 Including:
+* *Over 200,000 Merchants • Including:*
 	* Sephora • Groupon • SHEIN • Nixon • Charlotte Tilbury • Vans • The North Face • Ted Baker • Timberland • 
 Ralph Lauren • Club Monaco • Anine Bing • Domino’s Pizza • NTWRK • Finish Line • Aéropostale •
 Nautica • Fender • ASOS • H&M • Gymshark • IKEA • Farfetch • Cult Beauty • Dyson • JD Sports • Acne
