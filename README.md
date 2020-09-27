@@ -14,7 +14,7 @@
 	* Victor Jacobsson
 
 * *The Idea*
-	* Sebastian and Niklas were working at a Burger King, and later met Victor when attending the Stockholm School of Economics.
+	* Sebastian and Niklas were working at a Burger King, and later met Victor when studying for their undergraduate program at the Stockholm School of Economics.
 	* Before studying for his masters, Sebastian missed registration due to being stuck abroad temporarily, and ended up working for a debt collection agency by happenstance that had been contracted by e-commerce stores to collect on past due invoices following the Dotcom crisis.
 	* Sebastian came up with an idea to start a company that takes on the credit risk for the merchants that profits from transaction fees, and presented the idea as a project at the Stockholm School of Economics, but had been told that it would never work (productmint.com).
 	* The idea had been focused on the notion that people want to shop online and do not have the option to reputably ‘try before they buy’.  The founding team sought to develop a website that creates a seamless process for customers at checkout.
@@ -30,7 +30,6 @@
 	* Klarna provides a seamless client checkout experience by linking merchants, payment solutions, and their consumers through an app that focuses on ease of use, aesthetics, and smooth shipping / returns.
 	* *Klarna Holding AB*, a Swedish public limited liability company,  has subsidiaries operating in 17 countries (Klarna).
 	* They are a fully licensed bank in Europe,  and operate differently in the US, Canada and Australia.  
-	
 	
 * *Who Klarna Is Not*
 	* A retail merchant
