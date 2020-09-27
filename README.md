@@ -16,7 +16,7 @@
 * *The Idea*
 	* Sebastian and Niklas were working at a Burger King, and later met Victor when studying for their undergraduate program at the Stockholm School of Economics.
 	* Before studying for his masters, Sebastian missed registration due to being stuck abroad temporarily, and ended up working for a debt collection agency by happenstance that had been contracted by e-commerce stores to collect on past due invoices following the Dotcom crisis.
-	* Sebastian came up with an idea to start a company that takes on the credit risk for the merchants that profits from transaction fees, and presented the idea as a project at the Stockholm School of Economics, but had been told that it would never work (productmint.com).
+	* Sebastian came up with an idea to start a company that takes on the credit risk for the merchants that profits from transaction fees and presented the idea as a project at the Stockholm School of Economics, but had been told that it would never work (productmint.com).
 	* The idea had been focused on the notion that people want to shop online and do not have the option to reputably ‘try before they buy’.  The founding team sought to develop a website that creates a seamless process for customers at checkout.
 	* When presenting the idea, they decided to maintain a narrow scope and disrupt banking through FinTech.  Their approach continues to be to focus on the westernized global community and remain rooted in their niche rather than trying to be a bank that covers a wide scope.  Retail banks are focused on payments, lending and savings, and they choose to keep their scope narrow.
 	* Payment companies and banks continue to make less revenue per transaction as they try to compete on price, so Klarna must compete in other ways in order to gain a greater share of the market while prices compress.  Their key differentiator is the ease of doing business provided through their app and the robust partnerships they have built with merchants and other payment processing companies (Slush Interview).
@@ -43,7 +43,7 @@
 ## Business Activities
 
 * *Specific Financial Problems Klarna Solves*
-	* The founders believed that the checkout, payment and return processes for retail businesses were difficult and fragmented, so they sought a solutions to make these processes seamless and enjoyable for customers.  They initially focused on the idea that customers should have the option to try a product before providing payment to the retailer.   Klarna has leveraged key partnerships and financial technology to provide an exceptional customer experience to both the merchants and customers they serve.
+	* The founders believed that the checkout, payment and return processes for retail businesses were difficult and fragmented, so they sought a solution to make these processes seamless and enjoyable for customers.  They initially focused on the idea that customers should have the option to try a product before providing payment to the retailer.   Klarna has leveraged key partnerships and financial technology to provide an exceptional customer experience to both the merchants and customers they serve.
 
 ![Klarna-Try-Before-Buy](https://github.com/1monalisa1/FinTech-Case-Study/blob/master/Images/Klarna-Try-Before-Buy.png)
 
@@ -65,7 +65,7 @@ Studios • Peloton • Bose • Missguided • Samsung • Sonos • Beauty Bay
 		* While Shopping
 			* Home / Landing Page:  Top strip banners introduce Klarna.
 			* Search / Category Page:  Personalized payment promotions are integrated on the search page.
-			* Product Page:  Show personalized payment promotionals with each product.
+			* Product Page:  Show personalized payment promotions with each product.
 			* Card Page:  Cart placements show the promotional price for the entire cart.
 			* Checkout Page:  Payment selector & checkout widget explain Klarna in simple terms during a one-click checkout.
 			* Pre-qualification Banners:  Help customers know how likely they are to receive credit.
@@ -74,7 +74,7 @@ Studios • Peloton • Bose • Missguided • Samsung • Sonos • Beauty Bay
 			* Merchant Email:  Confirmation emails that include Klarna payment information in your customer send-outs.
 			* Klarna App / Klarna.com:  Receipt images to improve clarity and reduce contact rates post-purchase
 			* Shipping Details:  Send shipping details so customers know what is happening to their package.
-			* In-app Shopping:  Configure your brand for shpping with Klarna
+			* In-app Shopping:  Configure your brand for shopping with Klarna
 
 * *Financial Arrangements Offered by Klarna*
 	* Pay in-full within a specified period following checkout by entering a major credit card or bank information
@@ -125,7 +125,7 @@ Studios • Peloton • Bose • Missguided • Samsung • Sonos • Beauty Bay
 	* 2017 • Expanded to the United Kingdom and acquired BillPay, a European payment solutions provider
 	* 2018 • Acquired ShopCo Technologies, a US universal cart browser extension parent company, and Close Brothers, a UK omnichannel retail finance provider with active merchants
 	* 2019 • Partnered with PayBright, a Canadian point-of-sale financing company, and expanded within Canada	
-	* 2020 • Expanded to Australia, New Zealand, Belgium & Spain.  Acquired Spring Marketplace, retail marketing company, and Moneymour, an Italian provider of point of sale loans, which also lead to expansion within Italy (Crowdfund Insider, Crunchbase, Klarma & PR Newswire).
+	* 2020 • Expanded to Australia, New Zealand, Belgium & Spain.  Acquired Spring Marketplace, retail marketing company, and Moneymour, an Italian provider of point of sale loans, which also lead to expansion within Italy (Crowdfund Insider, Crunchbase, Klarna & PR Newswire).
 
 * *Klarna’s Reach in 2020* 
 	* Total end-customers:  85,000,000
@@ -133,8 +133,8 @@ Studios • Peloton • Bose • Missguided • Samsung • Sonos • Beauty Bay
 	* Number of countries:  17
 	* Number of transactions per day:  1,000,000
 	* Number of employees:  3,500
-	* E-commerce marketshare in Northern Europe:  10%
-	* E-commerce marketshare in Sweden:  40%
+	* E-commerce market share in Northern Europe:  10%
+	* E-commerce market share in Sweden:  40%
 	* Largest global provider of BNPL solutions (Klarna)
 	* Highest valued FinTech firm in Europe (CNBC)
 	
@@ -142,7 +142,7 @@ Studios • Peloton • Bose • Missguided • Samsung • Sonos • Beauty Bay
 	* Large companies such as Apple and Google have added payment processing features for their customers.  
 	* PayPal and Venmo continue to also expand within the consumer payment processing and credit space.
 	* Large banks such as JPMorgan Chase's Paymentech have begun enhancing their merchant services software and customer facing applications by leveraging new developments within the FinTech community.
-	* Klarna intends to continue expanding their marketshare by providing an exceptionally *‘smoooth’* customer experience around the checkout and return processes on their app.
+	* Klarna intends to continue expanding their market share by providing an exceptionally *‘smoooth’* customer experience around the checkout and return processes on their app.
 
 * *Main Competitors*
 	* PayPal Credit:  Klarna’s new focus on ‘buy now, pay later' is in direct competition with PayPal ’s financing business, PayPal Credit (Forbes).  PayPal also has a large share of the market from its tenure in the payment processing space.
@@ -150,9 +150,9 @@ Studios • Peloton • Bose • Missguided • Samsung • Sonos • Beauty Bay
 	* Afterpay (Australia): Similar business model currently
 	* Affirm (US): Similar business model, but also has emergency retailers such as car repair shops on their platform.
 	* Store Credit Cards / Major Credit Cards:  
-		* Gen-Z and Millenial consumers are using credit cards less than older generations, and have shown a preference for financing that does not impact their credit report with specified payment terms at the time of purchase rather than the ambiguity of open-ended lines of credit.
+		* Gen-Z and Millennial consumers are using credit cards less than older generations, and have shown a preference for financing that does not impact their credit report with specified payment terms at the time of purchase rather than the ambiguity of open-ended lines of credit.
 
-* *Competitors With Whom Klarna Chooses Not to Proactively Compete* 
+* *Competitors with Whom Klarna Chooses Not to Proactively Compete* 
 	* Who:  Google, ApplePay, large banks with large scopes, Chinese and Japanese payment processing companies
 	* Why:  They believe that focusing on their niche market in western countries will help them win the greatest market share in the markets they serve through providing an exceptional customer experience (Slush Interview).
 
@@ -196,7 +196,7 @@ Studios • Peloton • Bose • Missguided • Samsung • Sonos • Beauty Bay
 		* Would providing education around responsible credit use help or hurt sales revenues?
 		* Is this something to offer to all of users or for customers that are seeking to repair credit to eventually access financing options through Klarna?
 		* Could participation in financial education help users ‘earn’ access to credit?
-		* Benefits:  Feeling good about the product/service they offer, improving the spending habits of millenials and Gen-Z, goodwill of the communities they operate within, and good press which all could also ultimately lead to broadening their marketshare. 
+		* Benefits:  Feeling good about the product/service they offer, improving the spending habits of Millennials and Gen-Z, goodwill of the communities they operate within, and good press which all could also ultimately lead to broadening their market share. 
 	* Has Klarna considered partnering with government agencies or the United Nations around responsible credit use initiatives?
 		* Benefits: The data Klarna has accumulated over time likely has quantifiable monetary value, and may also aid organizations in understanding the consumer spending habits and fluid attitudes toward credit in the communities they serve.  Big data, AI and machine learning could be utilized for this project.
 
